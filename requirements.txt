@@ -4,4 +4,3 @@ python-multipart
 pandas
 numpy
 matplotlib
-zipfile
